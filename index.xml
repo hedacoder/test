@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" commit="7cfa15f424bb4a1f60f07d83690c3a0dd936aa20">
+  <category name="HeDa_AutoSend">
+    <reapack name="HeDa_AutoSend.lua" type="script">
+      <version name="0.3" author="Hector Corcin (HeDa)" time="2016-03-10T23:50:18Z">
+        <source platform="all">https://github.com/hedacoder/test/raw/7cfa15f424bb4a1f60f07d83690c3a0dd936aa20/HeDa_AutoSend/HeDa_AutoSend.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
