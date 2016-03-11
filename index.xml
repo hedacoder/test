@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="f06ecfa8ec626e4e7823e1454f1c46cd9af3c3ef">
+<index version="1" commit="53b096d4dd21803a9008b8db8301e9c42c6d4a64">
   <category name="HeDa_AutoSend">
     <reapack name="HeDa_AutoSend.lua" type="script">
       <version name="0.3" author="Hector Corcin (HeDa)" time="2016-03-10T23:50:18Z">
@@ -13,6 +13,12 @@
 + testing how to update
 ]]></changelog>
         <source platform="all">https://github.com/hedacoder/test/raw/f06ecfa8ec626e4e7823e1454f1c46cd9af3c3ef/HeDa_AutoSend/HeDa_AutoSend.lua</source>
+      </version>
+      <version name="0.6" author="Hector Corcin (HeDa)" time="2016-03-11T12:07:35Z">
+        <changelog><![CDATA[(2016-03-11)
++ testing 2
+]]></changelog>
+        <source platform="all">https://github.com/hedacoder/test/raw/53b096d4dd21803a9008b8db8301e9c42c6d4a64/HeDa_AutoSend/HeDa_AutoSend.lua</source>
       </version>
     </reapack>
   </category>
