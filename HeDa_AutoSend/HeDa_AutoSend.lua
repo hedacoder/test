@@ -4,12 +4,15 @@
    * Author: Hector Corcin (HeDa)
    * Author URI: http://forum.cockos.com/member.php?u=47822
    * Licence: GPL v3
-   * Version: 0.3
+   * Version: 0.4
 ]]
 
 --[[
 Changelog:
-
+v0.4 (2016-03-11)
+  + test update
+  # bug fix
+  
 v0.3 (2016-03-10)
   + Only works in track's with a suffix in the name.
   + If suffix used, option to deactivate sends if no suffix is found in selected track. 
