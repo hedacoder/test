@@ -4,27 +4,27 @@
    * Author URI: http://forum.cockos.com/member.php?u=47822
    * Licence: GPL v3
    * Version: 0.5
-   *	Changelog:
-   *	v0.5 (2016-03-11)
-   *	+ testing how to update
 --]]
 
 --[[
-Changelog:
-v0.4 (2016-03-11)
+* Changelog:
+* v0.5 (2016-03-11)
+  + testing how to update
+   
+* v0.4 (2016-03-11)
   + test update
   # bug fix
   
-v0.3 (2016-03-10)
+* v0.3 (2016-03-10)
   + Only works in track's with a suffix in the name.
   + If suffix used, option to deactivate sends if no suffix is found in selected track. 
 
-v0.2 (2016-02-21)
+* v0.2 (2016-02-21)
   + Auto creates the Receiving Track if it doesn't exist avoiding crash. [mccrabney p=1641272&postcount=23]
   + Remove send if no track is selected (it could be just as an option if wanted)
   # fixes and internal improvements
   
-v0.1 (2016-02-18)
+* v0.1 (2016-02-18)
   + Initial beta version
 
 --]]
