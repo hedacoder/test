@@ -3,11 +3,14 @@
    * Author: Hector Corcin (HeDa)
    * Author URI: http://forum.cockos.com/member.php?u=47822
    * Licence: GPL v3
-   * Version: 0.5
+   * Version: 0.6
 --]]
 
 --[[
 * Changelog:
+* v0.6 (2016-03-11)
+  + testing 2
+  
 * v0.5 (2016-03-11)
   + testing how to update
    
