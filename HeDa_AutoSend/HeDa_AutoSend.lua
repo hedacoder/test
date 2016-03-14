@@ -3,21 +3,11 @@
    * Author: Hector Corcin (HeDa)
    * Author URI: http://forum.cockos.com/member.php?u=47822
    * Licence: GPL v3
-   * Version: 0.6
+   * Version: 0.3
 --]]
 
 --[[
 * Changelog:
-* v0.6 (2016-03-11)
-  + testing 2
-  
-* v0.5 (2016-03-11)
-  + testing how to update
-   
-* v0.4 (2016-03-11)
-  + test update
-  # bug fix
-  
 * v0.3 (2016-03-10)
   + Only works in track's with a suffix in the name.
   + If suffix used, option to deactivate sends if no suffix is found in selected track. 
